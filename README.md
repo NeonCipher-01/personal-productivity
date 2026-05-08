@@ -89,3 +89,9 @@ The app will be accessible at `http://localhost:3000`.
 2. **Register** a new account.
 3. **Login** with your credentials.
 4. Start managing your tasks, habits, and goals!
+
+
+## git command 
+git add .
+git commit -m "your message"
+git push
